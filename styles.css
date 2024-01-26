@@ -1,11 +1,17 @@
 /*  your css code here. If applicable */
-h1
-{
+
+   
+
+    #photo-heading {
+      font-size: 24px;
+      margin-bottom: 20px;
 	text-align:center;
-}
-#photo-heading
-{
+    }
+
+    .animal-image {
+      width: 300px;
+      height: 200px;
+      margin: 10px;
 	
-	
-	flex:wrap;
-}
+    }
+  
